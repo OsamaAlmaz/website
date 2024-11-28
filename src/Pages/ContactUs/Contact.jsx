@@ -28,7 +28,7 @@ export default function ContactUs() {
                             <span>
                               <FaPhone />
                             </span>
-                            <span>+1 (613) 413-5757 </span>
+                            <span>+1 (647) 575-3304 </span>
                         </p>
                         <p className="flex items-center space-x-2 text-gray-600">
                             <span>

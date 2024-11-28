@@ -1,11 +1,13 @@
 import { useEffect, useState } from "react";
 import { FaArrowAltCircleRight, FaArrowAltCircleLeft } from "react-icons/fa";
 import { useNavigate } from "react-router-dom";
-
+import image1 from './1.jpg';
+import image2 from './2.jpg';
+import image3 from './3.jpg';
 const slides = [
-    { image: "https://jan-pro.ca/app/uploads/2023/10/Equipment-needed-VF-2880x1620-1-scaled.jpg", text: "Professional solutions for clean environments." },
-    { image: "https://www.enviropurehome.com/wp-content/uploads/2022/02/shutterstock_564110662.jpg", text: "One provider. One solution. All of your facility service needs." },
-    { image: "https://cdn.prod.website-files.com/5a4be71aa12183000115e62c/62f8f9fe3280f285537b2606_cleaning.webp", text: "Your reliable partner in facility maintenance." },
+    { image: image1, text: "Professional solutions for clean environments." },
+    { image: image2, text: "One provider. One solution. All of your facility service needs." },
+    { image: image3, text: "Your reliable partner in facility maintenance." },
     
 ];
 
