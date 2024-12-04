@@ -9,19 +9,19 @@ export default function JoinUs() {
       <div className="text-center max-w-2xl mx-auto">
         <h1 className="text-4xl font-bold text-blue-900 mb-4">Join Our Team</h1>
         <p className="text-lg text-gray-700 mb-8">
-          At Spark Cleaning, we are always looking for dedicated and passionate individuals to join our growing team. Whether you're starting your career or looking for a new opportunity in the cleaning industry, we'd love to hear from you.
+          At Spark Cleaner, we are always looking for dedicated and passionate individuals to join our growing team. Whether you're starting your career or looking for a new opportunity in the cleaning industry, we'd love to hear from you.
         </p>
       </div>
 
       {/* Testimonial Section */}
       <div className="bg-white p-8 rounded-lg shadow-md max-w-4xl mx-auto mt-12">
-        <blockquote className="text-2xl italic text-blue-900 mb-4">"I'm always proud to be a part of the Spark Cleaninig family where employee safety is top priority."</blockquote>
+        <blockquote className="text-2xl italic text-blue-900 mb-4">"I'm always proud to be a part of the Spark Cleaner family where employee safety is top priority."</blockquote>
         <p className="text-right text-lg text-gray-700">- Sara</p>
       </div>
 
       {/* Careers Description */}
       <div className="bg-white p-12 rounded-lg shadow-md max-w-4xl mx-auto mt-16">
-        <h2 className="text-3xl font-bold text-blue-900 mb-4"> Spark Cleaning Careers</h2>
+        <h2 className="text-3xl font-bold text-blue-900 mb-4"> Spark Cleaner Careers</h2>
         <h3 className="text-2xl font-semibold text-blue-900 mb-2">We support our people’s success</h3>
         <p className="text-gray-700 mb-4">
           We've been in business for almost 100 years. Which means we’ve been around long enough to know our success is entirely due to our team. And now we need you.
@@ -41,7 +41,7 @@ export default function JoinUs() {
           <div className="flex flex-col items-center">
             <div className="text-5xl mb-4">💡</div>
             <p className="text-center">
-              At Spark Cleaning, our business is built on innovation and safety. We support the personal growth and safety of every one of our team members.
+              At Spark Cleaner, our business is built on innovation and safety. We support the personal growth and safety of every one of our team members.
             </p>
           </div>
           <div className="flex flex-col items-center">
@@ -107,7 +107,7 @@ export default function JoinUs() {
           <li className="mb-2"><strong>#1 – Apply:</strong> Select an open job and fill out the application form.</li>
           <li className="mb-2"><strong>#2 – Review:</strong> We’ll take a look at the form and see if it’s a good fit.</li>
           <li className="mb-2"><strong>#3 – Interview:</strong> If your resume lines up with what we need, we’ll call you for an interview and check your references.</li>
-          <li className="mb-2"><strong>#4 – Hiring:</strong> We’ll complete the relevant safety and security checks, and if you’re the successful candidate, you’ll get an offer of employment and our Welcome to Spark Cleaning orientation Package.</li>
+          <li className="mb-2"><strong>#4 – Hiring:</strong> We’ll complete the relevant safety and security checks, and if you’re the successful candidate, you’ll get an offer of employment and our Welcome to Spark Cleaner orientation Package.</li>
           <li className="mb-2"><strong>#5 – Training:</strong> All our team members start with training and tests on Health and Safety, Environment, and Respect at the Workplace. We provide specific training on cleaning processes and procedures to make sure you feel confident getting into a work routine.</li>
         </ol>
         <div className="text-center mt-8">

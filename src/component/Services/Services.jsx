@@ -11,7 +11,7 @@ const services = [
   {
     name: 'Cleaning Services',
     title: "Attractive, healthy buildings are vital for your success.",
-    description: `Beautiful, healthy buildings and facilities are crucial to your success. Since 1926, we’ve built a reputation for delivering quality results. Our team works tirelessly to keep your building environments hygienic and attractive, offering a wide range of commercial cleaning services to match your needs. Your facility deserves to shine, and our specialists are trained using the right equipment to provide you with premium cleaning solutions. By opting for a customized package from Spark Cleaning , it will allow you to win over potential clients, strengthen your reputation, and increase your employees’ production.`,
+    description: `Beautiful, healthy buildings and facilities are crucial to your success. Since 1926, we’ve built a reputation for delivering quality results. Our team works tirelessly to keep your building environments hygienic and attractive, offering a wide range of commercial cleaning services to match your needs. Your facility deserves to shine, and our specialists are trained using the right equipment to provide you with premium cleaning solutions. By opting for a customized package from Spark Cleaner , it will allow you to win over potential clients, strengthen your reputation, and increase your employees’ production.`,
     link: '/cleaning-services',
     image: image1, 
   },
@@ -40,7 +40,7 @@ const services = [
   {
     name: "Food Plant Sanitation Services",
     title: "Protect your reputation with a perfect clean.",
-    description: "Our specialists bring extensive expertise in the cleaning and sanitation industry directly to your business. [Your Company] provides mission-critical cleaning and sanitation services for both wet and dry environments.",
+    description: "Our specialists bring extensive expertise in the cleaning and sanitation industry directly to your business. Spark Cleaner provides mission-critical cleaning and sanitation services for both wet and dry environments.",
     link: '/food-plant-sanitation',
     image: image4,
   },
@@ -54,14 +54,14 @@ const services = [
   {
     name: "Environmental Services",
     title: "Our sustainable approach",
-    description: "[Your Company] prioritizes the use of chemicals, consumables, and equipment that meet environmental accreditation or performance standards, promoting healthier building environments for clients and staff. By supporting environmental initiatives, we not only help protect the environment but also ensure safer products for our staff and healthier spaces for clients and tenants.",
+    description: "Spark Cleaner prioritizes the use of chemicals, consumables, and equipment that meet environmental accreditation or performance standards, promoting healthier building environments for clients and staff. By supporting environmental initiatives, we not only help protect the environment but also ensure safer products for our staff and healthier spaces for clients and tenants.",
     link: "environmental-service",
     image: image6,
   },
   {
     name: "Security Services",
     title: "Outstanding Security Personnel and Services to Safeguard Your Organization",
-    description: "At [Your Company] Security Services, protecting your employees, customers, and visitors is our highest priority in today’s world. We are committed to delivering top-quality security solutions, giving you peace of mind so you can concentrate on your core business. With over six decades of collective experience in law enforcement and security, our expert team is skilled at safeguarding your assets while building lasting partnerships with our clients. Trust [Your Company] Security Services for unmatched protection and peace of mind.",
+    description: "At Spark Cleaner Security Services, protecting your employees, customers, and visitors is our highest priority in today’s world. We are committed to delivering top-quality security solutions, giving you peace of mind so you can concentrate on your core business. With over six decades of collective experience in law enforcement and security, our expert team is skilled at safeguarding your assets while building lasting partnerships with our clients. Trust [Your Company] Security Services for unmatched protection and peace of mind.",
     link: "/security-service-link",
     image: image7
   }

@@ -34,7 +34,7 @@ export default function ContactUs() {
                             <span>
                               <MdOutlineAlternateEmail/>
                             </span>
-                            <span>almazloum.osama@gmail.com</span>
+                            <span>aiman.mazloum@gmail.com</span>
                         </p>
                     </div>
                 </div>

@@ -12,6 +12,15 @@ import ContactUs from './Pages/ContactUs/Contact';
 import AboutPage from './Pages/About/About';
 import Home from './Pages/Home/Home';
 import JoinUs from './Pages/JoinUs/JoinUs';
+import Sandbox from './component/Sandbox/Sandbox';
+import Cleaning from './Pages/Cleaning/Cleaning';
+import SanitizationSolutionPage from './Pages/Sanitization/Sanitization';
+import ContaminationSolutionPage from './Pages/Contamination/Contamination';
+import FoodPlantSolutionPage from './Pages/Food/Food';
+import EventSolutionPage from './Pages/Event/Event';
+import EnvironmentalSolutionPage from './Pages/Environmental/Enviornmental';
+import ComprehensiveSolutionPage from './Pages/Comprehensive/Comprehensive';
+import SpecializedServicePage from './Pages/Specialized/Specialized';
 
 const Layout = () => {
   return (
@@ -48,6 +57,38 @@ const router = createBrowserRouter([
         path: "/join-us",
         element: < JoinUs />
       },
+      {
+        path: '/cleaning',
+        element: < Cleaning />
+      },
+      {
+        path: '/sanitization',
+        element: < SanitizationSolutionPage />
+      },
+      {
+        path: '/contamination',
+        element: <ContaminationSolutionPage />,
+      },
+      {
+        path: '/food-plant',
+        element: <FoodPlantSolutionPage />
+      },
+      {
+        path:'/event',
+        element: <EventSolutionPage />
+      },
+      {
+        path: '/environmental',
+        element: <EnvironmentalSolutionPage />
+      },
+      {
+        path: '/comprehensive',
+        element: < ComprehensiveSolutionPage />
+      },
+      {
+        path: '/specialized',
+        element: < SpecializedServicePage />
+      }
     ]
   }
 ])
